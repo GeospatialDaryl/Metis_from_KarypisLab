@@ -1,0 +1,3 @@
+/usr/local/include/mtmetis.h
+/usr/local/lib/libmtmetis.a
+/usr/local/bin/mtmetis

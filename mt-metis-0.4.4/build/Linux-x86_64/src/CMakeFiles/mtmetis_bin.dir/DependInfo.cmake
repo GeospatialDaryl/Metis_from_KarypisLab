@@ -1,0 +1,36 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/home/master/build/Metis_from_KarypisLab/mt-metis-0.4.4/src/mtmetis_bin.c" "/home/master/build/Metis_from_KarypisLab/mt-metis-0.4.4/build/Linux-x86_64/src/CMakeFiles/mtmetis_bin.dir/mtmetis_bin.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_C
+  "BOWSTRING_INT_WEIGHTS=1"
+  "NDEBUG2=1"
+  "NDEBUG=1"
+  "_POSIX_C_SOURCE=1"
+  )
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../../include"
+  "../../domlib"
+  "../../bowstring/include"
+  "../../metis/include"
+  "../../metis/libmetis"
+  "../../metis/GKlib"
+  "../../src/."
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/master/build/Metis_from_KarypisLab/mt-metis-0.4.4/build/Linux-x86_64/src/CMakeFiles/mtmetis.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
